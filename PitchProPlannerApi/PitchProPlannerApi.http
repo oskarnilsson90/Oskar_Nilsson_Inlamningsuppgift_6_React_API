@@ -1,0 +1,6 @@
+@PitchProPlannerApi_HostAddress = http://localhost:5225
+
+GET {{PitchProPlannerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
